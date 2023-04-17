@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javi</h1>
-<h3 align="center">A computer engineering student from Malaga!</h3>
+<h3 align="center">A computer science student from Malaga!</h3>
 
 - 🔭 I’m currently studying on **Malaga University** and I'm doing some projects by my own also, they are more related on web development, also I'm learning different technologies like react or spring.
 
